@@ -1,0 +1,5 @@
+Visual Micro
+Debug
+*.opensdf
+*.sdf
+*.suo
